@@ -7,10 +7,10 @@ These draw on a html5 canvas using JavaScript
 My first Dwitter Creation: 
 
 
-<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/firstdwittercreation.gif?raw=true" width="480" height="480"/>
+<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/firstdwittercreation.gif?raw=true" width="500" height="570"/>
 
 
 Rectangle Sway: 
 
-<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/rectanglesway.gif?raw=true" width="570" height="500"/>
+<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/rectanglesway.gif?raw=true" width="500" height="570"/>
 
