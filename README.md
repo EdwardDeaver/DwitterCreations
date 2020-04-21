@@ -12,5 +12,5 @@ My first Dwitter Creation:
 
 Rectangle Sway: 
 
-<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/rectanglesway.gif?raw=true" width="500" height="570"/>
+<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/rectanglesway.gif?raw=true" width="480" height="500"/>
 
