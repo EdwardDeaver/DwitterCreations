@@ -16,4 +16,4 @@ Rectangle Sway:
 
 This American Life logo: 
 
-<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/thisamericanlife.PNG?raw=true" width="300" height="300"/>
+<img src="https://github.com/EdwardDeaver/DwitterCreations/blob/master/media/thisamericanlife.PNG?raw=true" width="500" height="570"/>
